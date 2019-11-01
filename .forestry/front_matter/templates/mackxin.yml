@@ -1,4 +1,9 @@
 ---
 label: mackxin
 hide_body: false
-fields: []
+fields:
+- name: mackxin
+  type: text
+  config:
+    required: false
+  label: mackxin
